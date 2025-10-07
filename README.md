@@ -4,12 +4,6 @@ This project implements a distributed video transcoding system with a leaky buck
 
 
 
-- Watch our demo video to see the system in action:
-
-
-https://github.com/Abhisheksantra28/Video-Transcoder-Service/assets/108479463/24dbc9ac-709c-46a6-8eae-3713b41fd0e1
-
-
 ## Table of Contents
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
@@ -89,7 +83,7 @@ To get started with the project, follow these steps:
 ## Contribution Guidelines
 
 Contributions to the project are welcome! If you have any suggestions, bug fixes, or feature implementations, please open an issue or submit a pull request following our contribution guidelines.
-
+<!-- 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
