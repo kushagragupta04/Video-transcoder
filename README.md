@@ -2,6 +2,8 @@
 
 This project implements a distributed video transcoding system with a leaky bucket rate-limiting mechanism using Node.js, AWS services, Redis, and ffmpeg, aimed at automatically generating multiple resolutions of uploaded videos. It enhances accessibility and optimizes viewing experiences by providing users with options to preview and download videos in various resolutions.
 
+## Project Demo
+[▶️ Watch Demo Video](./assets/Video-transcoder-demo.mp4)
 
 
 ## Table of Contents
@@ -16,9 +18,7 @@ This project implements a distributed video transcoding system with a leaky buck
 
 ## Architecture
 
-![Video Transcoder Service System Design](https://github.com/user-attachments/assets/14cbd7d1-3a13-4f71-a768-37f2d6d380e9)
-
-
+![Video Transcoder Service System Design](./assets/video-transcoder-system-design.png)
 
 
 
